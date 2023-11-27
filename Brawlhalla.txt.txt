@@ -1,3 +1,4 @@
+Legend Damage Taken
 1 426.92
 2 408.49
 3 403.04
