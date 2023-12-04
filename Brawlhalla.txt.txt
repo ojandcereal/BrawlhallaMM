@@ -24,9 +24,9 @@ Number Legend DmgTaken DmgDone
 23 Kaya 432.87 477
 24 Koji 421.73 449
 25 Kor 409.95 444
-26 Lin Fei 416.53 457
+26 Lin_Fei 416.53 457
 27 Loki 403.54 460
-28 Lord Vraxx 402.49 428
+28 Lord_Vraxx 402.49 428
 29 Lucien 409.28 436
 30 Magyar 413.89 463
 31 Mako 403.26 461
@@ -44,7 +44,7 @@ Number Legend DmgTaken DmgDone
 43 Scarlet 413.05 447
 44 Sentinel 410.04 457
 45 Sidra 411.1 452
-46 Sir Roland 399.44 440
+46 Sir_Roland 399.44 440
 47 Teros 415.35 439
 48 Tezca 400.5 418
 49 Thatch 421 458
