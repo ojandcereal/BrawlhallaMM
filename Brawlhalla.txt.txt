@@ -24,7 +24,7 @@ Number Legend DmgTaken DmgDone
 23 Kaya 432.87 477
 24 Koji 421.73 449
 25 Kor 409.95 444
-26 Lin_Fei 416.53 457
+26 LinFei 416.53 457
 27 Loki 403.54 460
 28 Lord_Vraxx 402.49 428
 29 Lucien 409.28 436
@@ -37,14 +37,14 @@ Number Legend DmgTaken DmgDone
 36 Onyx 409.65 449
 37 Orion 416.6 464
 38 Petra 417.87 458
-39 Queen_Nai 410.8 468
+39 QueenNai 410.8 468
 40 Ragnir 408.18 449
 41 Rayman 420.35 444
 42 Reno 416.03 450
 43 Scarlet 413.05 447
 44 Sentinel 410.04 457
 45 Sidra 411.1 452
-46 Sir_Roland 399.44 440
+46 SirRoland 399.44 440
 47 Teros 415.35 439
 48 Tezca 400.5 418
 49 Thatch 421 458
@@ -54,7 +54,7 @@ Number Legend DmgTaken DmgDone
 53 Val 417.38 423
 54 Vector 395.04 435
 55 Volkov 403.22 439
-56 Wu_Shang 427.12 444
+56 WuShang 427.12 444
 57 Xull 413.76 471
 58 Yumiko 407.52 435
 59 Zariel 414.29 447
