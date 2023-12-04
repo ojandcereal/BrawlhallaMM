@@ -54,7 +54,7 @@ Number Legend DmgTaken DmgDone
 53 Val 417.38 423
 54 Vector 395.04 435
 55 Volkov 403.22 439
-56 Wu Shang 427.12 444
+56 Wu_Shang 427.12 444
 57 Xull 413.76 471
 58 Yumiko 407.52 435
 59 Zariel 414.29 447
