@@ -37,7 +37,7 @@ Number Legend DmgTaken DmgDone
 36 Onyx 409.65 449
 37 Orion 416.6 464
 38 Petra 417.87 458
-39 Queen Nai 410.8 468
+39 Queen_Nai 410.8 468
 40 Ragnir 408.18 449
 41 Rayman 420.35 444
 42 Reno 416.03 450
