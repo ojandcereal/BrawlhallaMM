@@ -34,7 +34,7 @@ Number Legend DmgTaken DmgDone
 33 Mordex 403.68 431
 34 Munin 394.81 435
 35 Nix 403.06 425
-36 Onyx 409.65 449
+36 Onyx 409.65 459
 37 Orion 416.6 464
 38 Petra 417.87 458
 39 QueenNai 410.8 468
@@ -44,7 +44,7 @@ Number Legend DmgTaken DmgDone
 43 Scarlet 413.05 447
 44 Sentinel 410.04 457
 45 Sidra 411.1 452
-46 SirRoland 399.44 440
+46 SirRoland 399.44 450
 47 Teros 415.35 439
 48 Tezca 400.5 418
 49 Thatch 421 458
@@ -56,5 +56,5 @@ Number Legend DmgTaken DmgDone
 55 Volkov 403.22 439
 56 WuShang 427.12 444
 57 Xull 413.76 471
-58 Yumiko 407.52 435
+58 Yumiko 407.52 415
 59 Zariel 414.29 447
