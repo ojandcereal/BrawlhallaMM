@@ -56,5 +56,5 @@ Number Legend DmgTaken DmgDone
 55 Volkov 403.22 439
 56 WuShang 427.12 444
 57 Xull 413.76 471
-58 Yumiko 407.52 415
+58 Yumiko 397.52 405
 59 Zariel 414.29 447
